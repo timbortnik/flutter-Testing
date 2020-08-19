@@ -1,1 +1,11 @@
 .packages
+android/.gradle/*
+.dart_tool
+.idea/*
+build
+output
+ios
+local.properties
+.packages
+android/local.properties
+ios/*
